@@ -29,8 +29,6 @@ I’m especially interested in **backend engineering, distributed systems, and s
 ## 📊 GitHub Stats
 
 <!-- You said you'll add these yourself -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swanand11&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swanand11&layout=compact&theme=tokyonight)
 
 ---
