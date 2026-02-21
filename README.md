@@ -1,40 +1,26 @@
-# Hi, I'm Swanand Gadwe 👋
+# Swanand Gadwe
 
-🎓 Student Developer | 💻 Passionate about building real-world projects | 🚀 Always learning
+Computer Science undergraduate interested in backend engineering and distributed systems.  
+I enjoy building systems that handle real workloads, thinking about data flow and failure modes, and understanding why one design choice holds up better than another.
 
----
-## 👨‍💻 About Me
+Currently focusing on Go, Kafka, and core systems concepts (OS, networking, storage).  
+I learn best by implementing things end-to-end and iterating on them after they break.
 
-I'm a CS undergraduate who enjoys building **systems more than demos** and **infrastructure more than slides**.  
-I like working on real-world backend problems, thinking in terms of invariants, data flow, and failure modes, and learning by **building and breaking things**.
+## Projects
 
-I’m especially interested in **backend engineering, distributed systems, and system design**, and I care a lot about writing software that is understandable, maintainable, and actually works under pressure.
+### TripWise  
+Python · PostgreSQL · Flutter  
 
-- 🎓 Field: Computer Science & Engineering  
-- 🌱 Currently learning: Operating Systems, Distributed Systems, Backend Architecture, Go, Kafka, Postgres  
-- 🛠️ Interested in: Backend Engineering, Systems Design, Infrastructure, Applied ML (econometrics / analytics)  
-- 🎯 Goal: Become a strong backend/systems engineer and work on products that matter at scale
+Trip planning application with a backend for structured itinerary and location data.
 
----
+- Designed backend APIs and data schema for trip workflows  
+- Implemented PostgreSQL data model and queries  
+- Built backend services supporting a Flutter client  
+- Emphasis on clear data flow and maintainable structure  
 
-## ⭐ Featured Project
+> More systems/distributed work in progress.
 
-### TripWise
-- 🛠️ Tech Used: Python | postgresql |flutter
-- 🔧 My Role: Backend Developer
-- 🔗 Repository: https://github.com/ShrihariJoshi/TripWise
+## Contact
 
----
-
-
----
-
-## 📫 Contact Me
-
-- 💼 LinkedIn: www.linkedin.com/in/swanand-gadwe-ba1219279
-- 📧 Email: swanandgadwe@gmail.com
-
----
-
-> “Learning by building. Improving every day.” 🚀
-
+- LinkedIn: https://www.linkedin.com/in/swanand-gadwe-ba1219279  
+- Email: swanandgadwe@gmail.com
